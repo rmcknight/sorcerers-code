@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Harry Programmer and the Sorcerers Code: Scene 2
+=======
+Harry Programmer and the Sourcer's Code: Scene 2
+>>>>>>> aa9b7b658459db7455ede3e0ed9c63961f973324
